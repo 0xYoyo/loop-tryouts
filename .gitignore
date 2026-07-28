@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.DS_Store
+# Local ImageGen source files; optimized WebP versions are committed.
+public/images/*.png
