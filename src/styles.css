@@ -262,8 +262,10 @@ a.button--primary:hover {
   inset-block-end: 1rem;
   max-width: 420px;
   margin: 0;
+  padding: 0.55rem 0.75rem;
+  background: rgba(31, 20, 16, 0.92);
   color: white;
-  font-size: 0.74rem;
+  font-size: 0.8rem;
   text-align: end;
 }
 
